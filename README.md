@@ -4,6 +4,7 @@ This project is a simple Amazon Clone created using HTML, CSS, and JavaScript. I
 
 ## Table of Contents
 
+- [Live Demo](#livedemo)
 - [Screenshots](#screenshots)
 - [Overview](#overview)
 - [Features](#features)
@@ -11,6 +12,10 @@ This project is a simple Amazon Clone created using HTML, CSS, and JavaScript. I
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Future Enhancements](#future-enhancements)
+
+## Live Demo
+
+Check out the live demo of the project [here](https://princepatel4423d.github.io/Amazon-clone/).
 
 ## Screenshots
 
