@@ -4,7 +4,7 @@ This project is a simple Amazon Clone created using HTML, CSS, and JavaScript. I
 
 ## Table of Contents
 
-- [Live Demo](#livedemo)
+- [Live Demo](#live-demo)
 - [Screenshots](#screenshots)
 - [Overview](#overview)
 - [Features](#features)
@@ -19,10 +19,10 @@ Check out the live demo of the project [here](https://princepatel4423d.github.io
 
 ## Screenshots
 
-![Screenshot 2024-12-27 141535](https://github.com/user-attachments/assets/67fbdd00-b2e5-433a-ad28-f862fa39ca2e)
-[Screenshot 2024-12-27 141606](https://github.com/user-attachments/assets/09fdd01b-84e4-4728-a5ad-7f30a0fc0e90)
-![Screenshot 2024-12-27 141626](https://github.com/user-attachments/assets/093b0295-3624-4406-bd9f-634c7109c922)
-![Screenshot 2024-12-27 141644](https://github.com/user-attachments/assets/638aefb0-4f6d-4041-a73b-915657efc4e5)
+![Screenshot 2024-12-27 141535](https://github.com/user-attachments/assets/67fbdd00-b2e5-433a-ad28-f862fa39ca2e) 
+[Screenshot 2024-12-27 141606](https://github.com/user-attachments/assets/09fdd01b-84e4-4728-a5ad-7f30a0fc0e90) 
+![Screenshot 2024-12-27 141626](https://github.com/user-attachments/assets/093b0295-3624-4406-bd9f-634c7109c922) 
+![Screenshot 2024-12-27 141644](https://github.com/user-attachments/assets/638aefb0-4f6d-4041-a73b-915657efc4e5) 
 
 ## Overview
 
